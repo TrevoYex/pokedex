@@ -6,4 +6,4 @@ projeto do canal: https://www.youtube.com/@ManualdoDev
 
 projeto feito com: HTML, CSS e JS
 
-link: https://trevoyex.github.io/pokedex/
+link: https://estevamnetof.github.io/pokedex/
